@@ -1,37 +1,39 @@
-はじめまして。りょーびーです。ゲームの個人開発をしています。
-弟の絵本が原作となっております。彼のためにマリオメーカーのようにコーディングの知識が無くてもステージを組める段階まで持っていくのが当初の目標でしたが、当人が創作に飽きたので私も放置していました。。。
-つい二週間ほど前にとあるキッカケがあり、制作活動を再開しました。当時より遥かに知識を持っていた為、完成・投稿も余裕かと甘く見積もっていました。しかしながら...
+Nice to meet you. My name is Ryobi. I am a solo game developer.
+The game is based on a picture book written by my younger brother. My initial goal was to get it to the stage where he could create levels without any coding knowledge, like Mario Maker, for him, but he got bored of creating, so I left it alone...
+Just about two weeks ago, something happened that made me start creating again. I knew far more than I did back then, so I overestimated that I would have no problem completing and posting it. However...
 
-時間・リプレイ記録機能　データ保管
-練習と本番のステージの区分け
-画面ロード演出
-ゴール時の演出
-動く背景
-作風と合致したフォントの導入
-まともなタイトル画面　（原作へのリンク・図鑑など）
-まともなUI（一時停止・プレイファイア・操作方法・やり直す　など）
-リプレイ機能
-得点の実装
-効果音・カメラ効果・音楽
-ナレーション
-ゲーム開始時の講談
-点線衝突の導入
-風船自動ルート探索
-難易度設定
-ステージ内収集要素
-細かなアニメーション
-細かな修正（ベク変・振動他）
-英語対応
-更なるギミック
+Time and replay recording function Data storage
+Separation of practice and real stages
+Screen loading effect
+Goal effect
+Moving background
+Introduction of font that matches the style
+Decent title screen (link to original work, picture book, etc.)
+Decent UI (pause, play fire, operation method, redo, etc.)
+Replay function
+Implementation of points
+Sound effects, camera effects, music
+Narration
+Storytelling at the start of the game
+Introduction of dotted line collisions
+Automatic balloon route search
+Difficulty settings
+In-stage collection elements
+Fine animations
+Fine corrections (vector transformation, vibration, etc.)
+English support
+More gimmicks
 
-と、未実装のもので山積みである現状、完成は遥かに先になるであろうことをリストアップしたつい先ほどに今更ながら実感しました。無念...
+And now that I've made a list of the things that haven't been implemented yet, I've realized that it will be a long time before it's complete. What a shame...
 
-しかし、制作を断念するかといったら、そんなわけありません。これは制作者あるあるかもしれませんが、当初は飽くまで手段でしかなかったものに情が湧いてしまったのです。
-特にデバッグ中に必要以上に操作してしまう、紙に書き起こしている時にゲーム主人公の落書きをしてしまうなど、歯止めは効かなくなってしまっています。
-昔やりこんでいた覇権2Dアクションゲームに想いを巡らせ、どういった工夫があるかなど、推しに捧げるために考える時間も増えた気がします。
+But there's no way I'm going to give up on the production. This may be a common thing for creators, but I've grown attached to something that was just a means to an end.
+In particular, I can't stop myself from operating the game more than necessary while debugging, or doodling the game's main character while writing on paper.
 
-取らぬ狸の皮算用というものの、妄想のは楽しいものです。その楽しい妄想の中では、私のゲームが史上最高傑作として業界で暴れています。。。
-ここ一週間以上に日常勢活を犠牲にすることはないかもしれませんが、かぐおのホームラン/KaguoHomeRunは絶対に完全版にします(か、最低10週間は今後取り組み続けます)。
-己の即戦力の無さを実感できる貴重な機会だから。。。
+I think I've had more time to think about the popular 2D action games I used to play, and to think about what kind of ingenuity I can make to devote to my favorite game.
 
-ということで、このRead Meを最後まで読んで下さった方は、プロフィールリンク先の公式Twitterのフォローをよろしくお願いします！ちょくちょく開発進捗を投稿するかもしれません！
+It's a matter of counting your chickens before they hatch, but it's fun to fantasize. In that fun fantasy, my game is causing a stir in the industry as the greatest masterpiece of all time...
+
+I may not sacrifice my daily life for more than a week, but I will definitely make KaguoHomeRun a complete version (or will continue to work on it for at least the next 10 weeks).
+Because it's a rare opportunity to realize how little I can do right away...
+
+So, if you've read this Read Me to the end, please follow the official Twitter account linked in my profile! I may post development progress from time to time!
